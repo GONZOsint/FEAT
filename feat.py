@@ -1,5 +1,5 @@
 import os
-from factcheckexplorer import FactCheckLib
+from factcheckexplorer.factcheckexplorer import FactCheckLib
 from dash import Dash, dcc, html, Input, Output, callback, State, dash_table
 import dash_bootstrap_components as dbc
 import plotly.express as px
