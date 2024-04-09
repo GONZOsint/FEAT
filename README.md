@@ -52,8 +52,16 @@ git clone https://github.com/GONZOsint/FEAT.git
 ```
 cd FEAT
 ```
+#### Set Up a Virtual Environment
+Before installing the required libraries, it's a good practice to create a virtual environment. This keeps your project dependencies isolated from the system-wide Python installation. To create and activate a virtual environment, run:
+```bash
+python -m venv feat
+.\venv\Scripts\activate
+```
+You should now see the name of your virtual environment (in this case, venv) at the beginning of the command line prompt, indicating that it is active.
 
 #### Install Required Libraries:
+With your virtual environment activated, install the project dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -63,6 +71,13 @@ pip install -r requirements.txt
 To utilize this project, you must install the FactCheckExplorer library. Run the following command for installation:
 ```bash
 pip install git+https://github.com/GONZOsint/factcheckexplorer.git
+```
+
+You're now all set to use FEAT!
+
+To deactivate the virtual environment when you're done working on the project, simply run:
+```bash
+deactivate
 ```
 
 ---
