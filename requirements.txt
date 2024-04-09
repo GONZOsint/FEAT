@@ -7,3 +7,4 @@ dash-table
 pandas
 plotly
 requests
+plotly.express
