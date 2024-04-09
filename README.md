@@ -45,7 +45,7 @@ Ensure Python 3.6+ is installed on your system. Follow these steps to get FEAT u
 ### Setup Process:
 #### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/FEAT.git
+git clone https://github.com/GONZOsint/FEAT.git
 ```
 
 #### Enter the Project Directory:
