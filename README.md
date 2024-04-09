@@ -55,14 +55,16 @@ cd FEAT
 
 #### Install Required Libraries:
 ```bash
-pip install -r requirements.txt
+pip3 install pipx
+pipx ensurepath
+pipx install ghunt
 ```
 
 #### Install FactCheckExplorer Library:
 
 To utilize this project, you must install the FactCheckExplorer library. Run the following command for installation:
 ```bash
-pip install git+https://github.com/GONZOsint/factcheckexplorer.git
+pip3 install git+https://github.com/GONZOsint/factcheckexplorer.git
 ```
 
 ---
