@@ -40,7 +40,7 @@ Explore the diverse functionalities of FEAT through these dashboard snapshots, s
 
 ### Prerequisites:
 
-Ensure Python 3.6+ is installed on your system. Follow these steps to get FEAT up and running:
+Ensure [Python 3.6+](https://www.python.org/downloads/) is installed on your system. Follow these steps to get FEAT up and running:
 
 ### Setup Process:
 #### Clone the Repository:
