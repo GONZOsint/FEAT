@@ -56,7 +56,7 @@ cd FEAT
 Before installing the required libraries, it's a good practice to create a virtual environment. This keeps your project dependencies isolated from the system-wide Python installation. To create and activate a virtual environment, run:
 ```bash
 python -m venv feat
-.\venv\Scripts\activate
+.\feat\Scripts\activate
 ```
 You should now see the name of your virtual environment (in this case, venv) at the beginning of the command line prompt, indicating that it is active.
 
