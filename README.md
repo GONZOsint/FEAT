@@ -86,7 +86,7 @@ deactivate
 
 Execute the following command to start the FEAT dashboard:
 ```bash
-python feat.py
+python app.py
 ```
 Navigate to http://127.0.0.1:8050/ in your web browser to interact with the tool.
 
