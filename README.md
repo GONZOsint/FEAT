@@ -6,6 +6,11 @@ FEAT, short for Factcheck Explorer Analysis Tool, is engineered to facilitate in
 
 ---
 
+# 🎮 TRY IT OUT: 
+
+🔗 Feel free to try out the online version: [FEAT](https://feat.onrender.com)
+
+---
 
 ## Dashboard Visuals
 
