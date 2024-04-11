@@ -9,6 +9,7 @@ import time
 import dash_cytoscape as cyto
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.SANDSTONE])
+server = app.server
 
 layout = {
     'name': 'cose',
